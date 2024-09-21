@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nithin Reddy
+- 👀 I’m learning full-stack web development and web3.0
+- 🌱 I’m currently learning "web development" 
+- 💞️ I’m looking to collaborate on open-source projects and research work under a professor's guidance.
+- 📫 You can reach out via Linkedin (https://www.linkedin.com/in/nithin-reddy-kotla/) or by email nithinreddykotlanithin@gmail.com 
