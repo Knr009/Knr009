@@ -43,5 +43,4 @@ AWS • Docker • Jenkins • GitHub Actions
 LinkedIn:
 https://www.linkedin.com/in/nithin-reddykotla/
 
-Email:
-your-email@example.com
+Email: nkotlanithin@gmail.com
